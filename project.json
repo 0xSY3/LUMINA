@@ -1,0 +1,14 @@
+{
+  "name": "Lumina",
+  "tagline": "Where Blockchain Data Meets Artificial Intelligence",
+  "description": "Lumina is an AI-powered Flow blockchain intelligence platform that transforms transaction analysis. It provides comprehensive insights including risk assessment, transaction timelines, gas optimization, and MEV detection. Users input transaction hashes or wallet addresses, and our AI analyzes patterns, security risks, and performance metrics. The platform connects to Flow EVM mainnet/testnet for real-time data and stores analysis results on-chain via Cadence smart contracts. Built with Next.js 15, TypeScript, Flow FCL, Cadence contracts, OpenAI API, Viem, and Tailwind CSS. Features Flow wallet integration, real-time blockchain data, and intelligent risk scoring algorithms for developers, traders, and security researchers.",
+  "team": [
+    {
+      "name": "Sahil Wasnik",
+      "email": "04syee@gmail.com"
+    }
+  ],
+  "demo_url": "https://lumina-rho-blond.vercel.app/",
+  "video_url": "https://youtu.be/tbGJBmKCQFQ?si=1cZ9zcGPvudXqFrC",
+  "technologies": ["Next.js", "TypeScript", "Flow FCL", "Cadence", "OpenAI API", "Viem", "Tailwind CSS", "React", "Flow EVM", "Flow SDK"]
+}
