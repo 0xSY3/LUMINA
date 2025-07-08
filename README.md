@@ -1,6 +1,6 @@
 # Lumina - AI-Powered Blockchain Intelligence Platform
 
-**One-sentence description:** Lumina illuminates the blockchain by providing AI-powered, human-readable analysis of Flow transactions that anyone can understand, making Web3 accessible to millions through intelligent insights.
+**Description:** Lumina illuminates the blockchain by providing AI-powered, human-readable analysis of Flow transactions that anyone can understand, making Web3 accessible to millions through intelligent insights.
 
 Lumina transforms complex blockchain data into digestible insights through AI, similar to how ChatGPT made AI accessible to hundreds of millions. By removing technical barriers, we enable:
 
@@ -61,9 +61,6 @@ Lumina transforms complex blockchain data into digestible insights through AI, s
 4. Run development server: `npm run dev`
 5. Open http://localhost:3000
 
-## 🌐 Live Demo
-
-[Add your deployment URL here]
 
 ## 📝 Environment Variables
 
@@ -78,7 +75,6 @@ See `.env.example` for all available configuration options.
 
 ## 🔮 Future Roadmap
 
-- ✅ Smart contract integration for saving analysis results
 - ✅ Social features for sharing transaction insights  
 - Advanced analytics dashboard with historical trends
 - Agent-based monitoring and alerts for suspicious transactions
